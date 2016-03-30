@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/napisani/wootscrape/tty.gif)
+![alt tag](https://raw.githubusercontent.com/napisani/wootscrape/master/tty.gif)
